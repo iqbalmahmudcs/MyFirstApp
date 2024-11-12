@@ -2,7 +2,6 @@
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Hello, Sir!");
 Console.WriteLine("Hello, Madam!");
-Console.WriteLine("Hello, Iqbal Hassan!");
 
 
 
